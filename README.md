@@ -8,6 +8,7 @@ I am a web and android developer. I really enjoy learning languages and framewor
 - JS
 - HTML
 - CSS
+- MYSQL
 
 ## Frameworks comfortable with
 - [Bootstrap](https://getbootstrap.com)
