@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Omoding Mike
+### Hi there, I'm Omoding Mike
 ## Android and web developer.
 I am a web and android developer. I really enjoy learning languages and frameworks like laravel. I do android app development and web development.
 
