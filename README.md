@@ -1,6 +1,6 @@
 ### Hi there, I'm Omoding Mike
-## Android and web developer.
-I am a web and android developer. I really enjoy learning languages and frameworks like laravel. I do android app development and web development.
+## Android and full stack web developer.
+I am a full stack web developer and android developer. I really enjoy learning languages and frameworks like laravel, Vue.js. I do android app development and web development.
 
 ## Skills and experience
 - KOTLIN
@@ -9,12 +9,17 @@ I am a web and android developer. I really enjoy learning languages and framewor
 - HTML
 - CSS
 - MYSQL
+- MongoDB
+- Vue.js
+- Node.js
+- Apple Swift
 
 ## Frameworks comfortable with
 - [Bootstrap](https://getbootstrap.com)
 - [Laravel](https://laravel.com)
+- [Vue.js](https://vuejs.org)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MikeOmoding)
+![Omoding's github stats](https://github-readme-stats.vercel.app/api?username=omodingmike)
 
 
 
