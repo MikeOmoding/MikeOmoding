@@ -11,6 +11,8 @@ I am a full stack web developer and android developer. I really enjoy learning l
 - MYSQL
 - MongoDB
 - Vue.js
+- React
+- Typescript
 - Node.js
 - Apple Swift
 
